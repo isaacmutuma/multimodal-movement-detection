@@ -1,0 +1,26 @@
+# Core
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Machine learning
+scikit-learn>=1.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Multimodal inputs (vision, audio, sensors)
+opencv-python>=4.8.0
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Configuration & utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development & testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+ruff>=0.1.0
