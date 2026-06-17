@@ -1,0 +1,28 @@
+# Model weights — auto-downloaded at runtime, not committed
+weights/*.task
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
