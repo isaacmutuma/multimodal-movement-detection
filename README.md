@@ -129,7 +129,7 @@ Prints normalized `(x, y)` coordinates for NOSE and RIGHT_WRIST.
 | 9 | HRI — lip tracking, HRI head, IDOLL presentation |
 | 10–11 | Integration, demo video, technical write-up |
 
-Target completion: July 31, 2026.
+
 
 ---
 
